@@ -1,0 +1,28 @@
+public enum eSoundName {
+	bell,
+	Cancel,
+	chatty,
+	Click,
+	drump,
+	fishing_fail,
+	fishing_start,
+	fishing_start2,
+	fishing_succes,
+	fishing_wait_minigame,
+	open,
+	piyo,
+	piyopiyo,
+	shower,
+	sleep,
+ };
+public enum MusicName {
+	Beach,
+	EventArea,
+	fever,
+	FishingMiniGame,
+	MyRoom,
+	Opening,
+	River,
+	SelectMap,
+	Shop,
+ };

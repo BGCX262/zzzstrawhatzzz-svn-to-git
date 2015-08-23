@@ -1,0 +1,15 @@
+Id	Name	Icon	Attack	Defent	Effect	Note
+1	Amber	Amber	1000	500		
+2	Broxic	Broxic	1000	500		
+3	Burblegon	Burblegon	1000	500		
+4	Centroxic	Centroxic	1000	500		
+5	Discotera	Discotera	1000	500		
+6	Ghiavica	Ghiavica	1000	500		
+7	Girwane	Girwane	1000	500		
+8	Hivalora	Hivalora	1000	500		
+9	Jarrvelo	Jarrvelo	1000	500		
+10	Magidor	Magidor	1000	500		
+11	Mietore	Mietore	1000	500		
+12	Milrexa	Milrexa	1000	500		
+13	Moltanior	Moltanior	1000	500		
+14	Muscraw	Muscraw	1000	500		
